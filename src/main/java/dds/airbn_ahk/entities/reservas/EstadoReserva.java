@@ -1,4 +1,4 @@
-package dds.airbn_ahk.entities;
+package dds.airbn_ahk.entities.reservas;
 
 public enum EstadoReserva {
     PENDIENTE,

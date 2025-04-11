@@ -1,4 +1,7 @@
-package dds.airbn_ahk.entities;
+package dds.airbn_ahk.entities.notificaciones;
+
+import dds.airbn_ahk.entities.reservas.EstadoReserva;
+import dds.airbn_ahk.entities.reservas.Reserva;
 
 public class FactoryNotification {
     private String crearMensaje(Reserva reserva) {
